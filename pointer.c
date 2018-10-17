@@ -10,6 +10,7 @@ int main()
 	printf("adress till int a = %x\nadress till *pointer = %x\n", &a, pointer);
 	printf("En pointer är av en viss datatyp, t ex int eller char och lagrar
 		en variabels adress");
+	printf("Ändring för git-syfte");
 
 	return 0;
 }
